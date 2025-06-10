@@ -1,0 +1,9 @@
+tensorflow
+pandas
+numpy
+scikit-learn
+requests
+matplotlib
+nltk
+python-dotenv
+yfinance
